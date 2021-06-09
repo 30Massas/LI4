@@ -1,0 +1,9 @@
+Insert into [Estatisticas] VALUES('3087', '2876', '27', '8', '1', '211', '1');
+Insert into [Estatisticas] VALUES('3133', '2900', '25', '11', '2', '233', '5');
+Insert into [Estatisticas] VALUES('2962', '2954', '20', '16', '3', '8', '6');
+Insert into [Estatisticas] VALUES('3112', '3087', '19', '17', '4', '25', '4');
+Insert into [Estatisticas] VALUES('3133', '3030', '19', '16', '5', '103', '2');
+Insert into [Estatisticas] VALUES('3110', '3190', '17', '18', '6', '-80', '7');
+Insert into [Estatisticas] VALUES('2905', '3054', '13', '22', '7', '-149', '8');
+Insert into [Estatisticas] VALUES('2937', '3021', '12', '24', '8', '-84', '9');
+Insert into [Estatisticas] VALUES('2940', '3207', '8', '28', '9', '-267', '3');

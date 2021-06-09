@@ -1,0 +1,155 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "7",
+        "season": "2020-2021"
+    },
+    "errors": [],
+    "results": 12,
+    "response": [
+        {
+            "id": 87,
+            "name": "Basket Flames",
+            "logo": "https://media.api-sports.io/basketball/teams/87.png",
+            "nationnal": false,
+            "country": {
+                "id": 3,
+                "name": "Austria",
+                "code": "AT",
+                "flag": "https://media.api-sports.io/flags/at.svg"
+            }
+        },
+        {
+            "id": 88,
+            "name": "BBC Nord",
+            "logo": "https://media.api-sports.io/basketball/teams/88.png",
+            "nationnal": false,
+            "country": {
+                "id": 3,
+                "name": "Austria",
+                "code": "AT",
+                "flag": "https://media.api-sports.io/flags/at.svg"
+            }
+        },
+        {
+            "id": 90,
+            "name": "Celovec",
+            "logo": "https://media.api-sports.io/basketball/teams/90.png",
+            "nationnal": false,
+            "country": {
+                "id": 3,
+                "name": "Austria",
+                "code": "AT",
+                "flag": "https://media.api-sports.io/flags/at.svg"
+            }
+        },
+        {
+            "id": 82,
+            "name": "Dornbirn Lions",
+            "logo": "https://media.api-sports.io/basketball/teams/82.png",
+            "nationnal": false,
+            "country": {
+                "id": 3,
+                "name": "Austria",
+                "code": "AT",
+                "flag": "https://media.api-sports.io/flags/at.svg"
+            }
+        },
+        {
+            "id": 85,
+            "name": "Furstenfeld",
+            "logo": "https://media.api-sports.io/basketball/teams/85.png",
+            "nationnal": false,
+            "country": {
+                "id": 3,
+                "name": "Austria",
+                "code": "AT",
+                "flag": "https://media.api-sports.io/flags/at.svg"
+            }
+        },
+        {
+            "id": 81,
+            "name": "Jennersdorf",
+            "logo": "https://media.api-sports.io/basketball/teams/81.png",
+            "nationnal": false,
+            "country": {
+                "id": 3,
+                "name": "Austria",
+                "code": "AT",
+                "flag": "https://media.api-sports.io/flags/at.svg"
+            }
+        },
+        {
+            "id": 84,
+            "name": "Mattersburg",
+            "logo": "https://media.api-sports.io/basketball/teams/84.png",
+            "nationnal": false,
+            "country": {
+                "id": 3,
+                "name": "Austria",
+                "code": "AT",
+                "flag": "https://media.api-sports.io/flags/at.svg"
+            }
+        },
+        {
+            "id": 83,
+            "name": "Mistelbach",
+            "logo": "https://media.api-sports.io/basketball/teams/83.png",
+            "nationnal": false,
+            "country": {
+                "id": 3,
+                "name": "Austria",
+                "code": "AT",
+                "flag": "https://media.api-sports.io/flags/at.svg"
+            }
+        },
+        {
+            "id": 91,
+            "name": "Raiders Tirol",
+            "logo": "https://media.api-sports.io/basketball/teams/91.png",
+            "nationnal": false,
+            "country": {
+                "id": 3,
+                "name": "Austria",
+                "code": "AT",
+                "flag": "https://media.api-sports.io/flags/at.svg"
+            }
+        },
+        {
+            "id": 89,
+            "name": "Salzburg",
+            "logo": "https://media.api-sports.io/basketball/teams/89.png",
+            "nationnal": false,
+            "country": {
+                "id": 3,
+                "name": "Austria",
+                "code": "AT",
+                "flag": "https://media.api-sports.io/flags/at.svg"
+            }
+        },
+        {
+            "id": 92,
+            "name": "Wagram",
+            "logo": "https://media.api-sports.io/basketball/teams/92.png",
+            "nationnal": false,
+            "country": {
+                "id": 3,
+                "name": "Austria",
+                "code": "AT",
+                "flag": "https://media.api-sports.io/flags/at.svg"
+            }
+        },
+        {
+            "id": 86,
+            "name": "Worthersee Piraten",
+            "logo": "https://media.api-sports.io/basketball/teams/86.png",
+            "nationnal": false,
+            "country": {
+                "id": 3,
+                "name": "Austria",
+                "code": "AT",
+                "flag": "https://media.api-sports.io/flags/at.svg"
+            }
+        }
+    ]
+}

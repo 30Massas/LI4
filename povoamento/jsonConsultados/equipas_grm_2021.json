@@ -1,0 +1,227 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "40",
+        "season": "2020-2021"
+    },
+    "errors": [],
+    "results": 18,
+    "response": [
+        {
+            "id": 519,
+            "name": "Alba Berlin",
+            "logo": "https://media.api-sports.io/basketball/teams/519.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 520,
+            "name": "Bamberg",
+            "logo": "https://media.api-sports.io/basketball/teams/520.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 521,
+            "name": "Basketball Braunschweig",
+            "logo": "https://media.api-sports.io/basketball/teams/521.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 522,
+            "name": "Bayern",
+            "logo": "https://media.api-sports.io/basketball/teams/522.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 523,
+            "name": "Bayreuth",
+            "logo": "https://media.api-sports.io/basketball/teams/523.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 524,
+            "name": "Bonn",
+            "logo": "https://media.api-sports.io/basketball/teams/524.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 550,
+            "name": "Chemnitz",
+            "logo": "https://media.api-sports.io/basketball/teams/550.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 525,
+            "name": "Crailsheim Merlins",
+            "logo": "https://media.api-sports.io/basketball/teams/525.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 526,
+            "name": "Frankfurt",
+            "logo": "https://media.api-sports.io/basketball/teams/526.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 527,
+            "name": "Giessen",
+            "logo": "https://media.api-sports.io/basketball/teams/527.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 528,
+            "name": "Gottingen",
+            "logo": "https://media.api-sports.io/basketball/teams/528.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 529,
+            "name": "Hamburg",
+            "logo": "https://media.api-sports.io/basketball/teams/529.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 530,
+            "name": "Ludwigsburg",
+            "logo": "https://media.api-sports.io/basketball/teams/530.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 532,
+            "name": "Oldenburg",
+            "logo": "https://media.api-sports.io/basketball/teams/532.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 535,
+            "name": "s.Oliver Wurzburg",
+            "logo": "https://media.api-sports.io/basketball/teams/535.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 2263,
+            "name": "Syntainics MBC",
+            "logo": "https://media.api-sports.io/basketball/teams/2263.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 533,
+            "name": "Ulm",
+            "logo": "https://media.api-sports.io/basketball/teams/533.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        },
+        {
+            "id": 534,
+            "name": "Vechta",
+            "logo": "https://media.api-sports.io/basketball/teams/534.png",
+            "nationnal": false,
+            "country": {
+                "id": 17,
+                "name": "Germany",
+                "code": "DE",
+                "flag": "https://media.api-sports.io/flags/de.svg"
+            }
+        }
+    ]
+}

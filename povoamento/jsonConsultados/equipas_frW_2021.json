@@ -1,0 +1,155 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "10",
+        "season": "2020-2021"
+    },
+    "errors": [],
+    "results": 12,
+    "response": [
+        {
+            "id": 120,
+            "name": "Bourges W",
+            "logo": "https://media.api-sports.io/basketball/teams/120.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 121,
+            "name": "Charnay Bourgogne Sud W",
+            "logo": "https://media.api-sports.io/basketball/teams/121.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 1802,
+            "name": "ESB Villeneuve W",
+            "logo": "https://media.api-sports.io/basketball/teams/1802.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 123,
+            "name": "Flammes Carolo W",
+            "logo": "https://media.api-sports.io/basketball/teams/123.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 124,
+            "name": "La Roche W",
+            "logo": "https://media.api-sports.io/basketball/teams/124.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 125,
+            "name": "Landerneau Bretagne W",
+            "logo": "https://media.api-sports.io/basketball/teams/125.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 126,
+            "name": "Landes W",
+            "logo": "https://media.api-sports.io/basketball/teams/126.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 127,
+            "name": "Lattes Montpellier W",
+            "logo": "https://media.api-sports.io/basketball/teams/127.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 128,
+            "name": "Lyon W",
+            "logo": "https://media.api-sports.io/basketball/teams/128.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 129,
+            "name": "Nantes W",
+            "logo": "https://media.api-sports.io/basketball/teams/129.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 130,
+            "name": "Tarbes GB W",
+            "logo": "https://media.api-sports.io/basketball/teams/130.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 131,
+            "name": "Union Hainaut W",
+            "logo": "https://media.api-sports.io/basketball/teams/131.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        }
+    ]
+}

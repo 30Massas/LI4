@@ -1,0 +1,227 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "8",
+        "season": "2020-2021"
+    },
+    "errors": [],
+    "results": 18,
+    "response": [
+        {
+            "id": 95,
+            "name": "Ada Blois",
+            "logo": "https://media.api-sports.io/basketball/teams/95.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 104,
+            "name": "Aix Maurienne",
+            "logo": "https://media.api-sports.io/basketball/teams/104.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 107,
+            "name": "Antibes",
+            "logo": "https://media.api-sports.io/basketball/teams/107.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 94,
+            "name": "Denain-Voltaire",
+            "logo": "https://media.api-sports.io/basketball/teams/94.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 105,
+            "name": "Evreux",
+            "logo": "https://media.api-sports.io/basketball/teams/105.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 110,
+            "name": "Fos-sur-Mer",
+            "logo": "https://media.api-sports.io/basketball/teams/110.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 103,
+            "name": "Gries Oberhoffen",
+            "logo": "https://media.api-sports.io/basketball/teams/103.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 96,
+            "name": "Lille",
+            "logo": "https://media.api-sports.io/basketball/teams/96.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 100,
+            "name": "Nancy",
+            "logo": "https://media.api-sports.io/basketball/teams/100.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 97,
+            "name": "Nantes",
+            "logo": "https://media.api-sports.io/basketball/teams/97.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 108,
+            "name": "Paris",
+            "logo": "https://media.api-sports.io/basketball/teams/108.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 109,
+            "name": "Poitiers",
+            "logo": "https://media.api-sports.io/basketball/teams/109.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 99,
+            "name": "Quimper",
+            "logo": "https://media.api-sports.io/basketball/teams/99.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 101,
+            "name": "Rouen",
+            "logo": "https://media.api-sports.io/basketball/teams/101.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 106,
+            "name": "Saint Quentin",
+            "logo": "https://media.api-sports.io/basketball/teams/106.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 93,
+            "name": "Souffelweyersheim",
+            "logo": "https://media.api-sports.io/basketball/teams/93.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 102,
+            "name": "St. Chamond",
+            "logo": "https://media.api-sports.io/basketball/teams/102.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        },
+        {
+            "id": 98,
+            "name": "Vichy-Clermont",
+            "logo": "https://media.api-sports.io/basketball/teams/98.png",
+            "nationnal": false,
+            "country": {
+                "id": 4,
+                "name": "France",
+                "code": "FR",
+                "flag": "https://media.api-sports.io/flags/fr.svg"
+            }
+        }
+    ]
+}

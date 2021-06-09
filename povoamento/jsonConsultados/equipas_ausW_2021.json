@@ -1,0 +1,107 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "3",
+        "season": "2020-2021"
+    },
+    "errors": [],
+    "results": 8,
+    "response": [
+        {
+            "id": 28,
+            "name": "Adelaide Lightning W",
+            "logo": "https://media.api-sports.io/basketball/teams/28.png",
+            "nationnal": false,
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            }
+        },
+        {
+            "id": 32,
+            "name": "Bendigo W",
+            "logo": "https://media.api-sports.io/basketball/teams/32.png",
+            "nationnal": false,
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            }
+        },
+        {
+            "id": 34,
+            "name": "Canberra Capitals W",
+            "logo": "https://media.api-sports.io/basketball/teams/34.png",
+            "nationnal": false,
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            }
+        },
+        {
+            "id": 33,
+            "name": "Melbourne Boomers W",
+            "logo": "https://media.api-sports.io/basketball/teams/33.png",
+            "nationnal": false,
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            }
+        },
+        {
+            "id": 35,
+            "name": "Perth Lynx W",
+            "logo": "https://media.api-sports.io/basketball/teams/35.png",
+            "nationnal": false,
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            }
+        },
+        {
+            "id": 30,
+            "name": "Southside W",
+            "logo": "https://media.api-sports.io/basketball/teams/30.png",
+            "nationnal": false,
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            }
+        },
+        {
+            "id": 29,
+            "name": "Sydney W",
+            "logo": "https://media.api-sports.io/basketball/teams/29.png",
+            "nationnal": false,
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            }
+        },
+        {
+            "id": 31,
+            "name": "Townsville W",
+            "logo": "https://media.api-sports.io/basketball/teams/31.png",
+            "nationnal": false,
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            }
+        }
+    ]
+}

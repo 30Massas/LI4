@@ -1,0 +1,3431 @@
+{
+    "get": "games",
+    "parameters": {
+        "league": "3",
+        "season": "2020-2021"
+    },
+    "errors": [],
+    "results": 60,
+    "response": [
+        {
+            "id": 100108,
+            "date": "2020-11-11T07:05:00+00:00",
+            "time": "07:05",
+            "timestamp": 1605078300,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "After Over Time",
+                "short": "AOT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 28,
+                    "name": "Adelaide Lightning W",
+                    "logo": "https://media.api-sports.io/basketball/teams/28.png"
+                },
+                "away": {
+                    "id": 34,
+                    "name": "Canberra Capitals W",
+                    "logo": "https://media.api-sports.io/basketball/teams/34.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 14,
+                    "quarter_2": 21,
+                    "quarter_3": 24,
+                    "quarter_4": 11,
+                    "over_time": 15,
+                    "total": 85
+                },
+                "away": {
+                    "quarter_1": 16,
+                    "quarter_2": 18,
+                    "quarter_3": 15,
+                    "quarter_4": 21,
+                    "over_time": 3,
+                    "total": 73
+                }
+            }
+        },
+        {
+            "id": 100109,
+            "date": "2020-11-11T09:05:00+00:00",
+            "time": "09:05",
+            "timestamp": 1605085500,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 35,
+                    "name": "Perth Lynx W",
+                    "logo": "https://media.api-sports.io/basketball/teams/35.png"
+                },
+                "away": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 10,
+                    "quarter_2": 15,
+                    "quarter_3": 5,
+                    "quarter_4": 18,
+                    "over_time": null,
+                    "total": 48
+                },
+                "away": {
+                    "quarter_1": 25,
+                    "quarter_2": 10,
+                    "quarter_3": 15,
+                    "quarter_4": 23,
+                    "over_time": null,
+                    "total": 73
+                }
+            }
+        },
+        {
+            "id": 100110,
+            "date": "2020-11-12T08:05:00+00:00",
+            "time": "08:05",
+            "timestamp": 1605168300,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Sydney W",
+                    "logo": "https://media.api-sports.io/basketball/teams/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 17,
+                    "quarter_2": 26,
+                    "quarter_3": 21,
+                    "quarter_4": 21,
+                    "over_time": null,
+                    "total": 85
+                },
+                "away": {
+                    "quarter_1": 15,
+                    "quarter_2": 16,
+                    "quarter_3": 17,
+                    "quarter_4": 22,
+                    "over_time": null,
+                    "total": 70
+                }
+            }
+        },
+        {
+            "id": 100111,
+            "date": "2020-11-12T10:05:00+00:00",
+            "time": "10:05",
+            "timestamp": 1605175500,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 32,
+                    "name": "Bendigo W",
+                    "logo": "https://media.api-sports.io/basketball/teams/32.png"
+                },
+                "away": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 12,
+                    "quarter_2": 18,
+                    "quarter_3": 17,
+                    "quarter_4": 13,
+                    "over_time": null,
+                    "total": 60
+                },
+                "away": {
+                    "quarter_1": 22,
+                    "quarter_2": 34,
+                    "quarter_3": 24,
+                    "quarter_4": 22,
+                    "over_time": null,
+                    "total": 102
+                }
+            }
+        },
+        {
+            "id": 100112,
+            "date": "2020-11-14T04:05:00+00:00",
+            "time": "04:05",
+            "timestamp": 1605326700,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 32,
+                    "name": "Bendigo W",
+                    "logo": "https://media.api-sports.io/basketball/teams/32.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Sydney W",
+                    "logo": "https://media.api-sports.io/basketball/teams/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 25,
+                    "quarter_2": 15,
+                    "quarter_3": 14,
+                    "quarter_4": 9,
+                    "over_time": null,
+                    "total": 63
+                },
+                "away": {
+                    "quarter_1": 34,
+                    "quarter_2": 17,
+                    "quarter_3": 29,
+                    "quarter_4": 20,
+                    "over_time": null,
+                    "total": 100
+                }
+            }
+        },
+        {
+            "id": 100113,
+            "date": "2020-11-14T06:05:00+00:00",
+            "time": "06:05",
+            "timestamp": 1605333900,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                },
+                "away": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 12,
+                    "quarter_2": 23,
+                    "quarter_3": 27,
+                    "quarter_4": 27,
+                    "over_time": null,
+                    "total": 89
+                },
+                "away": {
+                    "quarter_1": 22,
+                    "quarter_2": 18,
+                    "quarter_3": 15,
+                    "quarter_4": 17,
+                    "over_time": null,
+                    "total": 72
+                }
+            }
+        },
+        {
+            "id": 100114,
+            "date": "2020-11-15T04:05:00+00:00",
+            "time": "04:05",
+            "timestamp": 1605413100,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Sydney W",
+                    "logo": "https://media.api-sports.io/basketball/teams/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 29,
+                    "quarter_2": 20,
+                    "quarter_3": 23,
+                    "quarter_4": 27,
+                    "over_time": null,
+                    "total": 99
+                },
+                "away": {
+                    "quarter_1": 25,
+                    "quarter_2": 13,
+                    "quarter_3": 21,
+                    "quarter_4": 13,
+                    "over_time": null,
+                    "total": 72
+                }
+            }
+        },
+        {
+            "id": 100115,
+            "date": "2020-11-15T07:05:00+00:00",
+            "time": "07:05",
+            "timestamp": 1605423900,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 35,
+                    "name": "Perth Lynx W",
+                    "logo": "https://media.api-sports.io/basketball/teams/35.png"
+                },
+                "away": {
+                    "id": 28,
+                    "name": "Adelaide Lightning W",
+                    "logo": "https://media.api-sports.io/basketball/teams/28.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 20,
+                    "quarter_2": 14,
+                    "quarter_3": 20,
+                    "quarter_4": 15,
+                    "over_time": null,
+                    "total": 69
+                },
+                "away": {
+                    "quarter_1": 16,
+                    "quarter_2": 16,
+                    "quarter_3": 19,
+                    "quarter_4": 23,
+                    "over_time": null,
+                    "total": 74
+                }
+            }
+        },
+        {
+            "id": 100116,
+            "date": "2020-11-15T09:05:00+00:00",
+            "time": "09:05",
+            "timestamp": 1605431100,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 34,
+                    "name": "Canberra Capitals W",
+                    "logo": "https://media.api-sports.io/basketball/teams/34.png"
+                },
+                "away": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 21,
+                    "quarter_2": 10,
+                    "quarter_3": 22,
+                    "quarter_4": 25,
+                    "over_time": null,
+                    "total": 78
+                },
+                "away": {
+                    "quarter_1": 22,
+                    "quarter_2": 12,
+                    "quarter_3": 10,
+                    "quarter_4": 23,
+                    "over_time": null,
+                    "total": 67
+                }
+            }
+        },
+        {
+            "id": 100117,
+            "date": "2020-11-16T07:05:00+00:00",
+            "time": "07:05",
+            "timestamp": 1605510300,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 34,
+                    "name": "Canberra Capitals W",
+                    "logo": "https://media.api-sports.io/basketball/teams/34.png"
+                },
+                "away": {
+                    "id": 32,
+                    "name": "Bendigo W",
+                    "logo": "https://media.api-sports.io/basketball/teams/32.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 20,
+                    "quarter_2": 20,
+                    "quarter_3": 24,
+                    "quarter_4": 12,
+                    "over_time": null,
+                    "total": 76
+                },
+                "away": {
+                    "quarter_1": 14,
+                    "quarter_2": 8,
+                    "quarter_3": 25,
+                    "quarter_4": 9,
+                    "over_time": null,
+                    "total": 56
+                }
+            }
+        },
+        {
+            "id": 100118,
+            "date": "2020-11-16T09:05:00+00:00",
+            "time": "09:05",
+            "timestamp": 1605517500,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 35,
+                    "name": "Perth Lynx W",
+                    "logo": "https://media.api-sports.io/basketball/teams/35.png"
+                },
+                "away": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 17,
+                    "quarter_2": 20,
+                    "quarter_3": 8,
+                    "quarter_4": 11,
+                    "over_time": null,
+                    "total": 56
+                },
+                "away": {
+                    "quarter_1": 11,
+                    "quarter_2": 21,
+                    "quarter_3": 18,
+                    "quarter_4": 12,
+                    "over_time": null,
+                    "total": 62
+                }
+            }
+        },
+        {
+            "id": 100120,
+            "date": "2020-11-17T09:05:00+00:00",
+            "time": "09:05",
+            "timestamp": 1605603900,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Sydney W",
+                    "logo": "https://media.api-sports.io/basketball/teams/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 26,
+                    "quarter_2": 21,
+                    "quarter_3": 16,
+                    "quarter_4": 18,
+                    "over_time": null,
+                    "total": 81
+                },
+                "away": {
+                    "quarter_1": 19,
+                    "quarter_2": 24,
+                    "quarter_3": 16,
+                    "quarter_4": 19,
+                    "over_time": null,
+                    "total": 78
+                }
+            }
+        },
+        {
+            "id": 100121,
+            "date": "2020-11-18T07:05:00+00:00",
+            "time": "07:05",
+            "timestamp": 1605683100,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                },
+                "away": {
+                    "id": 34,
+                    "name": "Canberra Capitals W",
+                    "logo": "https://media.api-sports.io/basketball/teams/34.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 8,
+                    "quarter_2": 13,
+                    "quarter_3": 16,
+                    "quarter_4": 13,
+                    "over_time": null,
+                    "total": 50
+                },
+                "away": {
+                    "quarter_1": 22,
+                    "quarter_2": 9,
+                    "quarter_3": 17,
+                    "quarter_4": 19,
+                    "over_time": null,
+                    "total": 67
+                }
+            }
+        },
+        {
+            "id": 100122,
+            "date": "2020-11-18T09:05:00+00:00",
+            "time": "09:05",
+            "timestamp": 1605690300,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 32,
+                    "name": "Bendigo W",
+                    "logo": "https://media.api-sports.io/basketball/teams/32.png"
+                },
+                "away": {
+                    "id": 35,
+                    "name": "Perth Lynx W",
+                    "logo": "https://media.api-sports.io/basketball/teams/35.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 19,
+                    "quarter_2": 17,
+                    "quarter_3": 8,
+                    "quarter_4": 21,
+                    "over_time": null,
+                    "total": 65
+                },
+                "away": {
+                    "quarter_1": 18,
+                    "quarter_2": 25,
+                    "quarter_3": 24,
+                    "quarter_4": 11,
+                    "over_time": null,
+                    "total": 78
+                }
+            }
+        },
+        {
+            "id": 100123,
+            "date": "2020-11-19T08:05:00+00:00",
+            "time": "08:05",
+            "timestamp": 1605773100,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                },
+                "away": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 20,
+                    "quarter_2": 32,
+                    "quarter_3": 26,
+                    "quarter_4": 23,
+                    "over_time": null,
+                    "total": 101
+                },
+                "away": {
+                    "quarter_1": 21,
+                    "quarter_2": 24,
+                    "quarter_3": 17,
+                    "quarter_4": 27,
+                    "over_time": null,
+                    "total": 89
+                }
+            }
+        },
+        {
+            "id": 100125,
+            "date": "2020-11-21T06:05:00+00:00",
+            "time": "06:05",
+            "timestamp": 1605938700,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                },
+                "away": {
+                    "id": 32,
+                    "name": "Bendigo W",
+                    "logo": "https://media.api-sports.io/basketball/teams/32.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 15,
+                    "quarter_2": 25,
+                    "quarter_3": 29,
+                    "quarter_4": 22,
+                    "over_time": null,
+                    "total": 91
+                },
+                "away": {
+                    "quarter_1": 26,
+                    "quarter_2": 21,
+                    "quarter_3": 11,
+                    "quarter_4": 23,
+                    "over_time": null,
+                    "total": 81
+                }
+            }
+        },
+        {
+            "id": 100126,
+            "date": "2020-11-21T08:35:00+00:00",
+            "time": "08:35",
+            "timestamp": 1605947700,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                },
+                "away": {
+                    "id": 35,
+                    "name": "Perth Lynx W",
+                    "logo": "https://media.api-sports.io/basketball/teams/35.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 21,
+                    "quarter_2": 33,
+                    "quarter_3": 35,
+                    "quarter_4": 28,
+                    "over_time": null,
+                    "total": 117
+                },
+                "away": {
+                    "quarter_1": 26,
+                    "quarter_2": 16,
+                    "quarter_3": 14,
+                    "quarter_4": 15,
+                    "over_time": null,
+                    "total": 71
+                }
+            }
+        },
+        {
+            "id": 100127,
+            "date": "2020-11-21T10:35:00+00:00",
+            "time": "10:35",
+            "timestamp": 1605954900,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Sydney W",
+                    "logo": "https://media.api-sports.io/basketball/teams/29.png"
+                },
+                "away": {
+                    "id": 34,
+                    "name": "Canberra Capitals W",
+                    "logo": "https://media.api-sports.io/basketball/teams/34.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 23,
+                    "quarter_2": 16,
+                    "quarter_3": 14,
+                    "quarter_4": 10,
+                    "over_time": null,
+                    "total": 63
+                },
+                "away": {
+                    "quarter_1": 11,
+                    "quarter_2": 21,
+                    "quarter_3": 25,
+                    "quarter_4": 11,
+                    "over_time": null,
+                    "total": 68
+                }
+            }
+        },
+        {
+            "id": 100133,
+            "date": "2020-11-22T04:05:00+00:00",
+            "time": "04:05",
+            "timestamp": 1606017900,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                },
+                "away": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 21,
+                    "quarter_2": 22,
+                    "quarter_3": 18,
+                    "quarter_4": 14,
+                    "over_time": null,
+                    "total": 75
+                },
+                "away": {
+                    "quarter_1": 30,
+                    "quarter_2": 17,
+                    "quarter_3": 20,
+                    "quarter_4": 20,
+                    "over_time": null,
+                    "total": 87
+                }
+            }
+        },
+        {
+            "id": 100130,
+            "date": "2020-11-23T07:05:00+00:00",
+            "time": "07:05",
+            "timestamp": 1606115100,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                },
+                "away": {
+                    "id": 34,
+                    "name": "Canberra Capitals W",
+                    "logo": "https://media.api-sports.io/basketball/teams/34.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 15,
+                    "quarter_2": 17,
+                    "quarter_3": 23,
+                    "quarter_4": 17,
+                    "over_time": null,
+                    "total": 72
+                },
+                "away": {
+                    "quarter_1": 21,
+                    "quarter_2": 23,
+                    "quarter_3": 22,
+                    "quarter_4": 29,
+                    "over_time": null,
+                    "total": 95
+                }
+            }
+        },
+        {
+            "id": 100131,
+            "date": "2020-11-23T09:05:00+00:00",
+            "time": "09:05",
+            "timestamp": 1606122300,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Sydney W",
+                    "logo": "https://media.api-sports.io/basketball/teams/29.png"
+                },
+                "away": {
+                    "id": 35,
+                    "name": "Perth Lynx W",
+                    "logo": "https://media.api-sports.io/basketball/teams/35.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 19,
+                    "quarter_2": 23,
+                    "quarter_3": 16,
+                    "quarter_4": 16,
+                    "over_time": null,
+                    "total": 74
+                },
+                "away": {
+                    "quarter_1": 11,
+                    "quarter_2": 24,
+                    "quarter_3": 21,
+                    "quarter_4": 11,
+                    "over_time": null,
+                    "total": 67
+                }
+            }
+        },
+        {
+            "id": 100129,
+            "date": "2020-11-24T07:05:00+00:00",
+            "time": "07:05",
+            "timestamp": 1606201500,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                },
+                "away": {
+                    "id": 28,
+                    "name": "Adelaide Lightning W",
+                    "logo": "https://media.api-sports.io/basketball/teams/28.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 28,
+                    "quarter_2": 25,
+                    "quarter_3": 14,
+                    "quarter_4": 24,
+                    "over_time": null,
+                    "total": 91
+                },
+                "away": {
+                    "quarter_1": 8,
+                    "quarter_2": 20,
+                    "quarter_3": 12,
+                    "quarter_4": 11,
+                    "over_time": null,
+                    "total": 51
+                }
+            }
+        },
+        {
+            "id": 100128,
+            "date": "2020-11-24T09:05:00+00:00",
+            "time": "09:05",
+            "timestamp": 1606208700,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 32,
+                    "name": "Bendigo W",
+                    "logo": "https://media.api-sports.io/basketball/teams/32.png"
+                },
+                "away": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 10,
+                    "quarter_2": 13,
+                    "quarter_3": 17,
+                    "quarter_4": 11,
+                    "over_time": null,
+                    "total": 51
+                },
+                "away": {
+                    "quarter_1": 30,
+                    "quarter_2": 21,
+                    "quarter_3": 27,
+                    "quarter_4": 21,
+                    "over_time": null,
+                    "total": 99
+                }
+            }
+        },
+        {
+            "id": 100134,
+            "date": "2020-11-25T07:00:00+00:00",
+            "time": "07:00",
+            "timestamp": 1606287600,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Postponed",
+                "short": "POST",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 34,
+                    "name": "Canberra Capitals W",
+                    "logo": "https://media.api-sports.io/basketball/teams/34.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Sydney W",
+                    "logo": "https://media.api-sports.io/basketball/teams/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": null,
+                    "quarter_2": null,
+                    "quarter_3": null,
+                    "quarter_4": null,
+                    "over_time": null,
+                    "total": null
+                },
+                "away": {
+                    "quarter_1": null,
+                    "quarter_2": null,
+                    "quarter_3": null,
+                    "quarter_4": null,
+                    "over_time": null,
+                    "total": null
+                }
+            }
+        },
+        {
+            "id": 100135,
+            "date": "2020-11-25T07:30:00+00:00",
+            "time": "07:30",
+            "timestamp": 1606289400,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 35,
+                    "name": "Perth Lynx W",
+                    "logo": "https://media.api-sports.io/basketball/teams/35.png"
+                },
+                "away": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 17,
+                    "quarter_2": 13,
+                    "quarter_3": 15,
+                    "quarter_4": 17,
+                    "over_time": null,
+                    "total": 62
+                },
+                "away": {
+                    "quarter_1": 27,
+                    "quarter_2": 30,
+                    "quarter_3": 23,
+                    "quarter_4": 22,
+                    "over_time": null,
+                    "total": 102
+                }
+            }
+        },
+        {
+            "id": 100132,
+            "date": "2020-11-25T10:05:00+00:00",
+            "time": "10:05",
+            "timestamp": 1606298700,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 32,
+                    "name": "Bendigo W",
+                    "logo": "https://media.api-sports.io/basketball/teams/32.png"
+                },
+                "away": {
+                    "id": 28,
+                    "name": "Adelaide Lightning W",
+                    "logo": "https://media.api-sports.io/basketball/teams/28.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 22,
+                    "quarter_2": 21,
+                    "quarter_3": 16,
+                    "quarter_4": 24,
+                    "over_time": null,
+                    "total": 83
+                },
+                "away": {
+                    "quarter_1": 23,
+                    "quarter_2": 19,
+                    "quarter_3": 19,
+                    "quarter_4": 28,
+                    "over_time": null,
+                    "total": 89
+                }
+            }
+        },
+        {
+            "id": 100136,
+            "date": "2020-11-26T08:05:00+00:00",
+            "time": "08:05",
+            "timestamp": 1606377900,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 34,
+                    "name": "Canberra Capitals W",
+                    "logo": "https://media.api-sports.io/basketball/teams/34.png"
+                },
+                "away": {
+                    "id": 35,
+                    "name": "Perth Lynx W",
+                    "logo": "https://media.api-sports.io/basketball/teams/35.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 28,
+                    "quarter_2": 11,
+                    "quarter_3": 16,
+                    "quarter_4": 18,
+                    "over_time": null,
+                    "total": 73
+                },
+                "away": {
+                    "quarter_1": 19,
+                    "quarter_2": 24,
+                    "quarter_3": 12,
+                    "quarter_4": 15,
+                    "over_time": null,
+                    "total": 70
+                }
+            }
+        },
+        {
+            "id": 100137,
+            "date": "2020-11-26T10:00:00+00:00",
+            "time": "10:00",
+            "timestamp": 1606384800,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Postponed",
+                "short": "POST",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 28,
+                    "name": "Adelaide Lightning W",
+                    "logo": "https://media.api-sports.io/basketball/teams/28.png"
+                },
+                "away": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": null,
+                    "quarter_2": null,
+                    "quarter_3": null,
+                    "quarter_4": null,
+                    "over_time": null,
+                    "total": null
+                },
+                "away": {
+                    "quarter_1": null,
+                    "quarter_2": null,
+                    "quarter_3": null,
+                    "quarter_4": null,
+                    "over_time": null,
+                    "total": null
+                }
+            }
+        },
+        {
+            "id": 100138,
+            "date": "2020-11-28T04:05:00+00:00",
+            "time": "04:05",
+            "timestamp": 1606536300,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                },
+                "away": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 9,
+                    "quarter_2": 25,
+                    "quarter_3": 22,
+                    "quarter_4": 14,
+                    "over_time": null,
+                    "total": 70
+                },
+                "away": {
+                    "quarter_1": 20,
+                    "quarter_2": 22,
+                    "quarter_3": 30,
+                    "quarter_4": 22,
+                    "over_time": null,
+                    "total": 94
+                }
+            }
+        },
+        {
+            "id": 100124,
+            "date": "2020-11-28T06:05:00+00:00",
+            "time": "06:05",
+            "timestamp": 1606543500,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 28,
+                    "name": "Adelaide Lightning W",
+                    "logo": "https://media.api-sports.io/basketball/teams/28.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Sydney W",
+                    "logo": "https://media.api-sports.io/basketball/teams/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 20,
+                    "quarter_2": 12,
+                    "quarter_3": 21,
+                    "quarter_4": 22,
+                    "over_time": null,
+                    "total": 75
+                },
+                "away": {
+                    "quarter_1": 12,
+                    "quarter_2": 14,
+                    "quarter_3": 15,
+                    "quarter_4": 12,
+                    "over_time": null,
+                    "total": 53
+                }
+            }
+        },
+        {
+            "id": 100139,
+            "date": "2020-11-28T08:35:00+00:00",
+            "time": "08:35",
+            "timestamp": 1606552500,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 32,
+                    "name": "Bendigo W",
+                    "logo": "https://media.api-sports.io/basketball/teams/32.png"
+                },
+                "away": {
+                    "id": 34,
+                    "name": "Canberra Capitals W",
+                    "logo": "https://media.api-sports.io/basketball/teams/34.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 12,
+                    "quarter_2": 9,
+                    "quarter_3": 16,
+                    "quarter_4": 14,
+                    "over_time": null,
+                    "total": 51
+                },
+                "away": {
+                    "quarter_1": 20,
+                    "quarter_2": 22,
+                    "quarter_3": 28,
+                    "quarter_4": 17,
+                    "over_time": null,
+                    "total": 87
+                }
+            }
+        },
+        {
+            "id": 100140,
+            "date": "2020-11-28T10:30:00+00:00",
+            "time": "10:30",
+            "timestamp": 1606559400,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Postponed",
+                "short": "POST",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                },
+                "away": {
+                    "id": 35,
+                    "name": "Perth Lynx W",
+                    "logo": "https://media.api-sports.io/basketball/teams/35.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": null,
+                    "quarter_2": null,
+                    "quarter_3": null,
+                    "quarter_4": null,
+                    "over_time": null,
+                    "total": null
+                },
+                "away": {
+                    "quarter_1": null,
+                    "quarter_2": null,
+                    "quarter_3": null,
+                    "quarter_4": null,
+                    "over_time": null,
+                    "total": null
+                }
+            }
+        },
+        {
+            "id": 100141,
+            "date": "2020-11-29T02:05:00+00:00",
+            "time": "02:05",
+            "timestamp": 1606615500,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 28,
+                    "name": "Adelaide Lightning W",
+                    "logo": "https://media.api-sports.io/basketball/teams/28.png"
+                },
+                "away": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 30,
+                    "quarter_2": 17,
+                    "quarter_3": 20,
+                    "quarter_4": 12,
+                    "over_time": null,
+                    "total": 79
+                },
+                "away": {
+                    "quarter_1": 27,
+                    "quarter_2": 30,
+                    "quarter_3": 32,
+                    "quarter_4": 21,
+                    "over_time": null,
+                    "total": 110
+                }
+            }
+        },
+        {
+            "id": 100142,
+            "date": "2020-11-29T04:05:00+00:00",
+            "time": "04:05",
+            "timestamp": 1606622700,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Sydney W",
+                    "logo": "https://media.api-sports.io/basketball/teams/29.png"
+                },
+                "away": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 27,
+                    "quarter_2": 18,
+                    "quarter_3": 8,
+                    "quarter_4": 6,
+                    "over_time": null,
+                    "total": 59
+                },
+                "away": {
+                    "quarter_1": 26,
+                    "quarter_2": 13,
+                    "quarter_3": 23,
+                    "quarter_4": 11,
+                    "over_time": null,
+                    "total": 73
+                }
+            }
+        },
+        {
+            "id": 100143,
+            "date": "2020-12-01T08:05:00+00:00",
+            "time": "08:05",
+            "timestamp": 1606809900,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 34,
+                    "name": "Canberra Capitals W",
+                    "logo": "https://media.api-sports.io/basketball/teams/34.png"
+                },
+                "away": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 20,
+                    "quarter_2": 18,
+                    "quarter_3": 17,
+                    "quarter_4": 12,
+                    "over_time": null,
+                    "total": 67
+                },
+                "away": {
+                    "quarter_1": 21,
+                    "quarter_2": 16,
+                    "quarter_3": 21,
+                    "quarter_4": 15,
+                    "over_time": null,
+                    "total": 73
+                }
+            }
+        },
+        {
+            "id": 100144,
+            "date": "2020-12-01T10:05:00+00:00",
+            "time": "10:05",
+            "timestamp": 1606817100,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 35,
+                    "name": "Perth Lynx W",
+                    "logo": "https://media.api-sports.io/basketball/teams/35.png"
+                },
+                "away": {
+                    "id": 32,
+                    "name": "Bendigo W",
+                    "logo": "https://media.api-sports.io/basketball/teams/32.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 16,
+                    "quarter_2": 30,
+                    "quarter_3": 24,
+                    "quarter_4": 25,
+                    "over_time": null,
+                    "total": 95
+                },
+                "away": {
+                    "quarter_1": 22,
+                    "quarter_2": 14,
+                    "quarter_3": 19,
+                    "quarter_4": 24,
+                    "over_time": null,
+                    "total": 79
+                }
+            }
+        },
+        {
+            "id": 100119,
+            "date": "2020-12-02T08:05:00+00:00",
+            "time": "08:05",
+            "timestamp": 1606896300,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                },
+                "away": {
+                    "id": 28,
+                    "name": "Adelaide Lightning W",
+                    "logo": "https://media.api-sports.io/basketball/teams/28.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 29,
+                    "quarter_2": 31,
+                    "quarter_3": 30,
+                    "quarter_4": 21,
+                    "over_time": null,
+                    "total": 111
+                },
+                "away": {
+                    "quarter_1": 22,
+                    "quarter_2": 17,
+                    "quarter_3": 20,
+                    "quarter_4": 13,
+                    "over_time": null,
+                    "total": 72
+                }
+            }
+        },
+        {
+            "id": 100145,
+            "date": "2020-12-03T08:05:00+00:00",
+            "time": "08:05",
+            "timestamp": 1606982700,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Sydney W",
+                    "logo": "https://media.api-sports.io/basketball/teams/29.png"
+                },
+                "away": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 14,
+                    "quarter_2": 7,
+                    "quarter_3": 21,
+                    "quarter_4": 22,
+                    "over_time": null,
+                    "total": 64
+                },
+                "away": {
+                    "quarter_1": 25,
+                    "quarter_2": 23,
+                    "quarter_3": 19,
+                    "quarter_4": 19,
+                    "over_time": null,
+                    "total": 86
+                }
+            }
+        },
+        {
+            "id": 100146,
+            "date": "2020-12-03T10:00:00+00:00",
+            "time": "10:00",
+            "timestamp": 1606989600,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Postponed",
+                "short": "POST",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                },
+                "away": {
+                    "id": 32,
+                    "name": "Bendigo W",
+                    "logo": "https://media.api-sports.io/basketball/teams/32.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": null,
+                    "quarter_2": null,
+                    "quarter_3": null,
+                    "quarter_4": null,
+                    "over_time": null,
+                    "total": null
+                },
+                "away": {
+                    "quarter_1": null,
+                    "quarter_2": null,
+                    "quarter_3": null,
+                    "quarter_4": null,
+                    "over_time": null,
+                    "total": null
+                }
+            }
+        },
+        {
+            "id": 100147,
+            "date": "2020-12-04T07:05:00+00:00",
+            "time": "07:05",
+            "timestamp": 1607065500,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 34,
+                    "name": "Canberra Capitals W",
+                    "logo": "https://media.api-sports.io/basketball/teams/34.png"
+                },
+                "away": {
+                    "id": 28,
+                    "name": "Adelaide Lightning W",
+                    "logo": "https://media.api-sports.io/basketball/teams/28.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 25,
+                    "quarter_2": 21,
+                    "quarter_3": 26,
+                    "quarter_4": 13,
+                    "over_time": null,
+                    "total": 85
+                },
+                "away": {
+                    "quarter_1": 8,
+                    "quarter_2": 17,
+                    "quarter_3": 13,
+                    "quarter_4": 27,
+                    "over_time": null,
+                    "total": 65
+                }
+            }
+        },
+        {
+            "id": 100148,
+            "date": "2020-12-04T09:05:00+00:00",
+            "time": "09:05",
+            "timestamp": 1607072700,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                },
+                "away": {
+                    "id": 35,
+                    "name": "Perth Lynx W",
+                    "logo": "https://media.api-sports.io/basketball/teams/35.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 25,
+                    "quarter_2": 12,
+                    "quarter_3": 10,
+                    "quarter_4": 28,
+                    "over_time": null,
+                    "total": 75
+                },
+                "away": {
+                    "quarter_1": 28,
+                    "quarter_2": 13,
+                    "quarter_3": 16,
+                    "quarter_4": 27,
+                    "over_time": null,
+                    "total": 84
+                }
+            }
+        },
+        {
+            "id": 100149,
+            "date": "2020-12-05T06:05:00+00:00",
+            "time": "06:05",
+            "timestamp": 1607148300,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 32,
+                    "name": "Bendigo W",
+                    "logo": "https://media.api-sports.io/basketball/teams/32.png"
+                },
+                "away": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 20,
+                    "quarter_2": 3,
+                    "quarter_3": 11,
+                    "quarter_4": 18,
+                    "over_time": null,
+                    "total": 52
+                },
+                "away": {
+                    "quarter_1": 20,
+                    "quarter_2": 18,
+                    "quarter_3": 24,
+                    "quarter_4": 22,
+                    "over_time": null,
+                    "total": 84
+                }
+            }
+        },
+        {
+            "id": 100150,
+            "date": "2020-12-06T02:05:00+00:00",
+            "time": "02:05",
+            "timestamp": 1607220300,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Sydney W",
+                    "logo": "https://media.api-sports.io/basketball/teams/29.png"
+                },
+                "away": {
+                    "id": 32,
+                    "name": "Bendigo W",
+                    "logo": "https://media.api-sports.io/basketball/teams/32.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 23,
+                    "quarter_2": 8,
+                    "quarter_3": 10,
+                    "quarter_4": 21,
+                    "over_time": null,
+                    "total": 62
+                },
+                "away": {
+                    "quarter_1": 14,
+                    "quarter_2": 19,
+                    "quarter_3": 8,
+                    "quarter_4": 13,
+                    "over_time": null,
+                    "total": 54
+                }
+            }
+        },
+        {
+            "id": 100151,
+            "date": "2020-12-06T04:05:00+00:00",
+            "time": "04:05",
+            "timestamp": 1607227500,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                },
+                "away": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 22,
+                    "quarter_2": 20,
+                    "quarter_3": 28,
+                    "quarter_4": 24,
+                    "over_time": null,
+                    "total": 94
+                },
+                "away": {
+                    "quarter_1": 21,
+                    "quarter_2": 12,
+                    "quarter_3": 23,
+                    "quarter_4": 23,
+                    "over_time": null,
+                    "total": 79
+                }
+            }
+        },
+        {
+            "id": 100152,
+            "date": "2020-12-06T07:05:00+00:00",
+            "time": "07:05",
+            "timestamp": 1607238300,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                },
+                "away": {
+                    "id": 34,
+                    "name": "Canberra Capitals W",
+                    "logo": "https://media.api-sports.io/basketball/teams/34.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 18,
+                    "quarter_2": 24,
+                    "quarter_3": 19,
+                    "quarter_4": 23,
+                    "over_time": null,
+                    "total": 84
+                },
+                "away": {
+                    "quarter_1": 14,
+                    "quarter_2": 11,
+                    "quarter_3": 19,
+                    "quarter_4": 27,
+                    "over_time": null,
+                    "total": 71
+                }
+            }
+        },
+        {
+            "id": 100153,
+            "date": "2020-12-06T09:05:00+00:00",
+            "time": "09:05",
+            "timestamp": 1607245500,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 28,
+                    "name": "Adelaide Lightning W",
+                    "logo": "https://media.api-sports.io/basketball/teams/28.png"
+                },
+                "away": {
+                    "id": 35,
+                    "name": "Perth Lynx W",
+                    "logo": "https://media.api-sports.io/basketball/teams/35.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 28,
+                    "quarter_2": 13,
+                    "quarter_3": 28,
+                    "quarter_4": 9,
+                    "over_time": null,
+                    "total": 78
+                },
+                "away": {
+                    "quarter_1": 19,
+                    "quarter_2": 26,
+                    "quarter_3": 22,
+                    "quarter_4": 13,
+                    "over_time": null,
+                    "total": 80
+                }
+            }
+        },
+        {
+            "id": 100154,
+            "date": "2020-12-08T07:05:00+00:00",
+            "time": "07:05",
+            "timestamp": 1607411100,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 28,
+                    "name": "Adelaide Lightning W",
+                    "logo": "https://media.api-sports.io/basketball/teams/28.png"
+                },
+                "away": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 14,
+                    "quarter_2": 17,
+                    "quarter_3": 12,
+                    "quarter_4": 12,
+                    "over_time": null,
+                    "total": 55
+                },
+                "away": {
+                    "quarter_1": 31,
+                    "quarter_2": 13,
+                    "quarter_3": 12,
+                    "quarter_4": 20,
+                    "over_time": null,
+                    "total": 76
+                }
+            }
+        },
+        {
+            "id": 100155,
+            "date": "2020-12-08T09:35:00+00:00",
+            "time": "09:35",
+            "timestamp": 1607420100,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 35,
+                    "name": "Perth Lynx W",
+                    "logo": "https://media.api-sports.io/basketball/teams/35.png"
+                },
+                "away": {
+                    "id": 29,
+                    "name": "Sydney W",
+                    "logo": "https://media.api-sports.io/basketball/teams/29.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 13,
+                    "quarter_2": 19,
+                    "quarter_3": 13,
+                    "quarter_4": 23,
+                    "over_time": null,
+                    "total": 68
+                },
+                "away": {
+                    "quarter_1": 10,
+                    "quarter_2": 20,
+                    "quarter_3": 14,
+                    "quarter_4": 27,
+                    "over_time": null,
+                    "total": 71
+                }
+            }
+        },
+        {
+            "id": 100156,
+            "date": "2020-12-09T09:05:00+00:00",
+            "time": "09:05",
+            "timestamp": 1607504700,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 28,
+                    "name": "Adelaide Lightning W",
+                    "logo": "https://media.api-sports.io/basketball/teams/28.png"
+                },
+                "away": {
+                    "id": 32,
+                    "name": "Bendigo W",
+                    "logo": "https://media.api-sports.io/basketball/teams/32.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 12,
+                    "quarter_2": 21,
+                    "quarter_3": 26,
+                    "quarter_4": 10,
+                    "over_time": null,
+                    "total": 69
+                },
+                "away": {
+                    "quarter_1": 23,
+                    "quarter_2": 11,
+                    "quarter_3": 13,
+                    "quarter_4": 12,
+                    "over_time": null,
+                    "total": 59
+                }
+            }
+        },
+        {
+            "id": 100157,
+            "date": "2020-12-10T08:05:00+00:00",
+            "time": "08:05",
+            "timestamp": 1607587500,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 35,
+                    "name": "Perth Lynx W",
+                    "logo": "https://media.api-sports.io/basketball/teams/35.png"
+                },
+                "away": {
+                    "id": 34,
+                    "name": "Canberra Capitals W",
+                    "logo": "https://media.api-sports.io/basketball/teams/34.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 19,
+                    "quarter_2": 10,
+                    "quarter_3": 23,
+                    "quarter_4": 17,
+                    "over_time": null,
+                    "total": 69
+                },
+                "away": {
+                    "quarter_1": 26,
+                    "quarter_2": 27,
+                    "quarter_3": 22,
+                    "quarter_4": 21,
+                    "over_time": null,
+                    "total": 96
+                }
+            }
+        },
+        {
+            "id": 100158,
+            "date": "2020-12-10T10:05:00+00:00",
+            "time": "10:05",
+            "timestamp": 1607594700,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Sydney W",
+                    "logo": "https://media.api-sports.io/basketball/teams/29.png"
+                },
+                "away": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 20,
+                    "quarter_2": 19,
+                    "quarter_3": 21,
+                    "quarter_4": 17,
+                    "over_time": null,
+                    "total": 77
+                },
+                "away": {
+                    "quarter_1": 19,
+                    "quarter_2": 15,
+                    "quarter_3": 20,
+                    "quarter_4": 27,
+                    "over_time": null,
+                    "total": 81
+                }
+            }
+        },
+        {
+            "id": 100159,
+            "date": "2020-12-11T07:05:00+00:00",
+            "time": "07:05",
+            "timestamp": 1607670300,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                },
+                "away": {
+                    "id": 32,
+                    "name": "Bendigo W",
+                    "logo": "https://media.api-sports.io/basketball/teams/32.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 28,
+                    "quarter_2": 21,
+                    "quarter_3": 26,
+                    "quarter_4": 16,
+                    "over_time": null,
+                    "total": 91
+                },
+                "away": {
+                    "quarter_1": 17,
+                    "quarter_2": 17,
+                    "quarter_3": 20,
+                    "quarter_4": 16,
+                    "over_time": null,
+                    "total": 70
+                }
+            }
+        },
+        {
+            "id": 100160,
+            "date": "2020-12-11T09:05:00+00:00",
+            "time": "09:05",
+            "timestamp": 1607677500,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                },
+                "away": {
+                    "id": 28,
+                    "name": "Adelaide Lightning W",
+                    "logo": "https://media.api-sports.io/basketball/teams/28.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 28,
+                    "quarter_2": 19,
+                    "quarter_3": 25,
+                    "quarter_4": 23,
+                    "over_time": null,
+                    "total": 95
+                },
+                "away": {
+                    "quarter_1": 11,
+                    "quarter_2": 11,
+                    "quarter_3": 25,
+                    "quarter_4": 19,
+                    "over_time": null,
+                    "total": 66
+                }
+            }
+        },
+        {
+            "id": 100163,
+            "date": "2020-12-13T02:05:00+00:00",
+            "time": "02:05",
+            "timestamp": 1607825100,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                },
+                "away": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 9,
+                    "quarter_2": 31,
+                    "quarter_3": 17,
+                    "quarter_4": 13,
+                    "over_time": null,
+                    "total": 70
+                },
+                "away": {
+                    "quarter_1": 16,
+                    "quarter_2": 17,
+                    "quarter_3": 16,
+                    "quarter_4": 15,
+                    "over_time": null,
+                    "total": 64
+                }
+            }
+        },
+        {
+            "id": 100162,
+            "date": "2020-12-13T04:05:00+00:00",
+            "time": "04:05",
+            "timestamp": 1607832300,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 34,
+                    "name": "Canberra Capitals W",
+                    "logo": "https://media.api-sports.io/basketball/teams/34.png"
+                },
+                "away": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 22,
+                    "quarter_2": 23,
+                    "quarter_3": 19,
+                    "quarter_4": 18,
+                    "over_time": null,
+                    "total": 82
+                },
+                "away": {
+                    "quarter_1": 29,
+                    "quarter_2": 20,
+                    "quarter_3": 32,
+                    "quarter_4": 20,
+                    "over_time": null,
+                    "total": 101
+                }
+            }
+        },
+        {
+            "id": 100161,
+            "date": "2020-12-13T06:05:00+00:00",
+            "time": "06:05",
+            "timestamp": 1607839500,
+            "timezone": "UTC",
+            "stage": null,
+            "week": null,
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 29,
+                    "name": "Sydney W",
+                    "logo": "https://media.api-sports.io/basketball/teams/29.png"
+                },
+                "away": {
+                    "id": 28,
+                    "name": "Adelaide Lightning W",
+                    "logo": "https://media.api-sports.io/basketball/teams/28.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 16,
+                    "quarter_2": 23,
+                    "quarter_3": 18,
+                    "quarter_4": 29,
+                    "over_time": null,
+                    "total": 86
+                },
+                "away": {
+                    "quarter_1": 13,
+                    "quarter_2": 15,
+                    "quarter_3": 18,
+                    "quarter_4": 14,
+                    "over_time": null,
+                    "total": 60
+                }
+            }
+        },
+        {
+            "id": 105334,
+            "date": "2020-12-16T07:05:00+00:00",
+            "time": "07:05",
+            "timestamp": 1608102300,
+            "timezone": "UTC",
+            "stage": null,
+            "week": "WNBL Women - Quarter-finals",
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 34,
+                    "name": "Canberra Capitals W",
+                    "logo": "https://media.api-sports.io/basketball/teams/34.png"
+                },
+                "away": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 20,
+                    "quarter_2": 15,
+                    "quarter_3": 17,
+                    "quarter_4": 16,
+                    "over_time": null,
+                    "total": 68
+                },
+                "away": {
+                    "quarter_1": 32,
+                    "quarter_2": 9,
+                    "quarter_3": 22,
+                    "quarter_4": 15,
+                    "over_time": null,
+                    "total": 78
+                }
+            }
+        },
+        {
+            "id": 105335,
+            "date": "2020-12-16T09:20:00+00:00",
+            "time": "09:20",
+            "timestamp": 1608110400,
+            "timezone": "UTC",
+            "stage": null,
+            "week": "WNBL Women - Quarter-finals",
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                },
+                "away": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 41,
+                    "quarter_2": 19,
+                    "quarter_3": 26,
+                    "quarter_4": 20,
+                    "over_time": null,
+                    "total": 106
+                },
+                "away": {
+                    "quarter_1": 25,
+                    "quarter_2": 27,
+                    "quarter_3": 22,
+                    "quarter_4": 19,
+                    "over_time": null,
+                    "total": 93
+                }
+            }
+        },
+        {
+            "id": 105336,
+            "date": "2020-12-18T08:05:00+00:00",
+            "time": "08:05",
+            "timestamp": 1608278700,
+            "timezone": "UTC",
+            "stage": null,
+            "week": "WNBL Women - Semi-finals",
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                },
+                "away": {
+                    "id": 33,
+                    "name": "Melbourne Boomers W",
+                    "logo": "https://media.api-sports.io/basketball/teams/33.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 22,
+                    "quarter_2": 11,
+                    "quarter_3": 21,
+                    "quarter_4": 11,
+                    "over_time": null,
+                    "total": 65
+                },
+                "away": {
+                    "quarter_1": 17,
+                    "quarter_2": 12,
+                    "quarter_3": 18,
+                    "quarter_4": 15,
+                    "over_time": null,
+                    "total": 62
+                }
+            }
+        },
+        {
+            "id": 105789,
+            "date": "2020-12-20T04:05:00+00:00",
+            "time": "04:05",
+            "timestamp": 1608437100,
+            "timezone": "UTC",
+            "stage": null,
+            "week": "WNBL Women - Final",
+            "status": {
+                "long": "Game Finished",
+                "short": "FT",
+                "timer": null
+            },
+            "league": {
+                "id": 3,
+                "name": "NBL W",
+                "type": "League",
+                "season": "2020-2021",
+                "logo": "https://media.api-sports.io/basketball/leagues/3.png"
+            },
+            "country": {
+                "id": 1,
+                "name": "Australia",
+                "code": "AU",
+                "flag": "https://media.api-sports.io/flags/au.svg"
+            },
+            "teams": {
+                "home": {
+                    "id": 30,
+                    "name": "Southside W",
+                    "logo": "https://media.api-sports.io/basketball/teams/30.png"
+                },
+                "away": {
+                    "id": 31,
+                    "name": "Townsville W",
+                    "logo": "https://media.api-sports.io/basketball/teams/31.png"
+                }
+            },
+            "scores": {
+                "home": {
+                    "quarter_1": 22,
+                    "quarter_2": 26,
+                    "quarter_3": 23,
+                    "quarter_4": 28,
+                    "over_time": null,
+                    "total": 99
+                },
+                "away": {
+                    "quarter_1": 22,
+                    "quarter_2": 24,
+                    "quarter_3": 15,
+                    "quarter_4": 21,
+                    "over_time": null,
+                    "total": 82
+                }
+            }
+        }
+    ]
+}

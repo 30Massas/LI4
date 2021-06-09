@@ -1,0 +1,239 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "117",
+        "season": "2020-2021"
+    },
+    "errors": [],
+    "results": 19,
+    "response": [
+        {
+            "id": 2329,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/basketball/teams/2329.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 2330,
+            "name": "Basket Zaragoza",
+            "logo": "https://media.api-sports.io/basketball/teams/2330.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 2331,
+            "name": "Baskonia",
+            "logo": "https://media.api-sports.io/basketball/teams/2331.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 1695,
+            "name": "Bilbao",
+            "logo": "https://media.api-sports.io/basketball/teams/1695.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 284,
+            "name": "Estudiantes",
+            "logo": "https://media.api-sports.io/basketball/teams/284.png",
+            "nationnal": false,
+            "country": {
+                "id": 6,
+                "name": "Argentina",
+                "code": "AR",
+                "flag": "https://media.api-sports.io/flags/ar.svg"
+            }
+        },
+        {
+            "id": 2332,
+            "name": "Fuenlabrada",
+            "logo": "https://media.api-sports.io/basketball/teams/2332.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 1124,
+            "name": "Gipuzkoa",
+            "logo": "https://media.api-sports.io/basketball/teams/1124.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 2333,
+            "name": "Gran Canaria",
+            "logo": "https://media.api-sports.io/basketball/teams/2333.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 2334,
+            "name": "Joventut Badalona",
+            "logo": "https://media.api-sports.io/basketball/teams/2334.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 1698,
+            "name": "Manresa",
+            "logo": "https://media.api-sports.io/basketball/teams/1698.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 2335,
+            "name": "MoraBanc Andorra",
+            "logo": "https://media.api-sports.io/basketball/teams/2335.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 2336,
+            "name": "Murcia",
+            "logo": "https://media.api-sports.io/basketball/teams/2336.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 2337,
+            "name": "Obradoiro CAB",
+            "logo": "https://media.api-sports.io/basketball/teams/2337.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 1697,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/basketball/teams/1697.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 2338,
+            "name": "Real Madrid",
+            "logo": "https://media.api-sports.io/basketball/teams/2338.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 1699,
+            "name": "San Pablo Burgos",
+            "logo": "https://media.api-sports.io/basketball/teams/1699.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 2339,
+            "name": "Tenerife",
+            "logo": "https://media.api-sports.io/basketball/teams/2339.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 2340,
+            "name": "Unicaja",
+            "logo": "https://media.api-sports.io/basketball/teams/2340.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        },
+        {
+            "id": 2341,
+            "name": "Valencia",
+            "logo": "https://media.api-sports.io/basketball/teams/2341.png",
+            "nationnal": false,
+            "country": {
+                "id": 45,
+                "name": "Spain",
+                "code": "ES",
+                "flag": "https://media.api-sports.io/flags/es.svg"
+            }
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "get": "teams",
+    "parameters": {
+        "league": "74",
+        "season": "2020-2021"
+    },
+    "errors": [],
+    "results": 14,
+    "response": [
+        {
+            "id": 1799,
+            "name": "Academica",
+            "logo": "https://media.api-sports.io/basketball/teams/1799.png",
+            "nationnal": false,
+            "country": {
+                "id": 35,
+                "name": "Portugal",
+                "code": "PT",
+                "flag": "https://media.api-sports.io/flags/pt.svg"
+            }
+        },
+        {
+            "id": 932,
+            "name": "Barreirense",
+            "logo": "https://media.api-sports.io/basketball/teams/932.png",
+            "nationnal": false,
+            "country": {
+                "id": 35,
+                "name": "Portugal",
+                "code": "PT",
+                "flag": "https://media.api-sports.io/flags/pt.svg"
+            }
+        },
+        {
+            "id": 933,
+            "name": "Benfica",
+            "logo": "https://media.api-sports.io/basketball/teams/933.png",
+            "nationnal": false,
+            "country": {
+                "id": 35,
+                "name": "Portugal",
+                "code": "PT",
+                "flag": "https://media.api-sports.io/flags/pt.svg"
+            }
+        },
+        {
+            "id": 934,
+            "name": "CAB Madeira",
+            "logo": "https://media.api-sports.io/basketball/teams/934.png",
+            "nationnal": false,
+            "country": {
+                "id": 35,
+                "name": "Portugal",
+                "code": "PT",
+                "flag": "https://media.api-sports.io/flags/pt.svg"
+            }
+        },
+        {
+            "id": 935,
+            "name": "Esgueira",
+            "logo": "https://media.api-sports.io/basketball/teams/935.png",
+            "nationnal": false,
+            "country": {
+                "id": 35,
+                "name": "Portugal",
+                "code": "PT",
+                "flag": "https://media.api-sports.io/flags/pt.svg"
+            }
+        },
+        {
+            "id": 936,
+            "name": "FC Porto",
+            "logo": "https://media.api-sports.io/basketball/teams/936.png",
+            "nationnal": false,
+            "country": {
+                "id": 35,
+                "name": "Portugal",
+                "code": "PT",
+                "flag": "https://media.api-sports.io/flags/pt.svg"
+            }
+        },
+        {
+            "id": 937,
+            "name": "Galitos",
+            "logo": "https://media.api-sports.io/basketball/teams/937.png",
+            "nationnal": false,
+            "country": {
+                "id": 35,
+                "name": "Portugal",
+                "code": "PT",
+                "flag": "https://media.api-sports.io/flags/pt.svg"
+            }
+        },
+        {
+            "id": 946,
+            "name": "Imortal",
+            "logo": "https://media.api-sports.io/basketball/teams/946.png",
+            "nationnal": false,
+            "country": {
+                "id": 35,
+                "name": "Portugal",
+                "code": "PT",
+                "flag": "https://media.api-sports.io/flags/pt.svg"
+            }
+        },
+        {
+            "id": 939,
+            "name": "Lusitania",
+            "logo": "https://media.api-sports.io/basketball/teams/939.png",
+            "nationnal": false,
+            "country": {
+                "id": 35,
+                "name": "Portugal",
+                "code": "PT",
+                "flag": "https://media.api-sports.io/flags/pt.svg"
+            }
+        },
+        {
+            "id": 940,
+            "name": "Maia",
+            "logo": "https://media.api-sports.io/basketball/teams/940.png",
+            "nationnal": false,
+            "country": {
+                "id": 35,
+                "name": "Portugal",
+                "code": "PT",
+                "flag": "https://media.api-sports.io/flags/pt.svg"
+            }
+        },
+        {
+            "id": 941,
+            "name": "Oliveirense",
+            "logo": "https://media.api-sports.io/basketball/teams/941.png",
+            "nationnal": false,
+            "country": {
+                "id": 35,
+                "name": "Portugal",
+                "code": "PT",
+                "flag": "https://media.api-sports.io/flags/pt.svg"
+            }
+        },
+        {
+            "id": 942,
+            "name": "Ovarense",
+            "logo": "https://media.api-sports.io/basketball/teams/942.png",
+            "nationnal": false,
+            "country": {
+                "id": 35,
+                "name": "Portugal",
+                "code": "PT",
+                "flag": "https://media.api-sports.io/flags/pt.svg"
+            }
+        },
+        {
+            "id": 943,
+            "name": "Sporting CP",
+            "logo": "https://media.api-sports.io/basketball/teams/943.png",
+            "nationnal": false,
+            "country": {
+                "id": 35,
+                "name": "Portugal",
+                "code": "PT",
+                "flag": "https://media.api-sports.io/flags/pt.svg"
+            }
+        },
+        {
+            "id": 945,
+            "name": "Vitoria",
+            "logo": "https://media.api-sports.io/basketball/teams/945.png",
+            "nationnal": false,
+            "country": {
+                "id": 35,
+                "name": "Portugal",
+                "code": "PT",
+                "flag": "https://media.api-sports.io/flags/pt.svg"
+            }
+        }
+    ]
+}

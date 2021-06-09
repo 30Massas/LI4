@@ -1,0 +1,18 @@
+Insert into [Equipa] VALUES('95', 'Ada Blois', 'France', '8');
+Insert into [Equipa] VALUES('104', 'Aix Maurienne', 'France', '8');
+Insert into [Equipa] VALUES('107', 'Antibes', 'France', '8');
+Insert into [Equipa] VALUES('94', 'Denain-Voltaire', 'France', '8');
+Insert into [Equipa] VALUES('105', 'Evreux', 'France', '8');
+Insert into [Equipa] VALUES('110', 'Fos-sur-Mer', 'France', '8');
+Insert into [Equipa] VALUES('103', 'Gries Oberhoffen', 'France', '8');
+Insert into [Equipa] VALUES('96', 'Lille', 'France', '8');
+Insert into [Equipa] VALUES('100', 'Nancy', 'France', '8');
+Insert into [Equipa] VALUES('97', 'Nantes', 'France', '8');
+Insert into [Equipa] VALUES('108', 'Paris', 'France', '8');
+Insert into [Equipa] VALUES('109', 'Poitiers', 'France', '8');
+Insert into [Equipa] VALUES('99', 'Quimper', 'France', '8');
+Insert into [Equipa] VALUES('101', 'Rouen', 'France', '8');
+Insert into [Equipa] VALUES('106', 'Saint Quentin', 'France', '8');
+Insert into [Equipa] VALUES('93', 'Souffelweyersheim', 'France', '8');
+Insert into [Equipa] VALUES('102', 'St. Chamond', 'France', '8');
+Insert into [Equipa] VALUES('98', 'Vichy-Clermont', 'France', '8');
