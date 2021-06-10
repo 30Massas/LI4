@@ -1,0 +1,113 @@
+﻿@model WorldWideBasketball.Models.LogingInfo
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewBag.Title - WorldWideBasketball</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body class="d-flex flex-column min-vh-100">
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow">
+            <div class="container">
+                @if (Model.getLogged())
+                {
+                    <a class="navbar-brand logo-brand" asp-area="" asp-controller="Home" asp-action="Home">
+                        <img src="~/imgs/Logotipo.png" href="#" alt="" height="90" class="img-responsive" />
+                    </a>
+                }
+                else
+                {
+
+                    <a class="navbar-brand logo-brand" asp-area="" asp-controller="Account" asp-action="Index">
+                        <img src="~/imgs/Logotipo.png" href="#" alt="" height="90" class="img-responsive" />
+                    </a>
+                }
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        @if (Model.getLogged())
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Ligas">Ligas</a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            </li>
+
+
+                            <li class="nav-item dropdown">
+                                <a class="navbar-brand dropdown-toggle logo-brand" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown">
+                                    <img src="~/imgs/profile_pic.png" alt="" height="50" stryle="margin-top:10px" class="rounded-circle img-responsive">
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Logout">Logout</a>
+                                </div>
+                            </li>
+
+
+
+
+
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Index">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Register">Register</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Privacy">Privacy</a>
+                            </li>
+                        }
+
+
+                    </ul>
+                        @if (Model.getLogged())
+                        {
+                            <form class="d-flex" asp-controller="Home" asp-action="Search" method="post">
+                                <input class="form-control me-2" name="key" type="text" placeholder="Search" aria-label="text">
+                                <button class="btn btn-outline-success" type="submit">Search</button>
+                            </form>
+
+                        }
+                    </div>
+            </div>
+        </nav>
+    </header>
+    <div class="login_page">
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+
+
+
+    <!-- Footer -->
+
+    <footer class="border-top footer text-muted">
+        <div class="container text-center">
+            &copy; 2021 - WorldWideBasketball Grupo 22 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

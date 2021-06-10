@@ -1,0 +1,39 @@
+﻿@using WorldWideBasketball.Models;
+@using WorldWideBasketball.DataAccess;
+@model WorldWideBasketball.Models.LogingInfo;
+@{
+    ViewBag.Title = "Liga";
+}
+
+
+@{ EquipaDAO equipaDAO = new EquipaDAO();
+
+
+    JogoDAO jogoDAO = new JogoDAO();
+    Liga liga = (Liga)Model.getObject();
+    Dictionary<int, string> dictNames = equipaDAO.getStringEquipasByLeague(liga.Id);
+}
+
+
+
+
+<div class="text-center">
+    <h1 class="display-4">Informação Liga: @liga.Nome</h1>
+
+    <div>
+        <button type="button" class="btn btn-outline-success active">Jogos</button>
+        <a class="btn btn-outline-danger" asp-area="" asp-controller="Home" asp-action="LigaEquipas" asp-route-id="@liga.Id">Equipas</a>
+    </div>
+  
+
+    @{List<Jogo> jogos = jogoDAO.getAllJogosByLigaOrdered(liga.Id);
+
+        foreach (Jogo j in jogos)
+        {
+            <p>(@j.Data : @j.Hora) -> @dictNames[j.Equipa_Casa] ---- @j.Resultado ---- @dictNames[j.Equipa_Vis]</p>
+        }
+    }
+
+
+
+</div>

@@ -1,0 +1,40 @@
+﻿@model WorldWideBasketball.Models.LogingInfo;
+@{
+    ViewBag.Title = "Search";
+}
+
+@{Dictionary<string, Object> dados = (Dictionary<string, Object>)Model.getObject();
+    List<Liga> ligas = (List<Liga>)dados["ligas"];
+    List<Equipa> equipas = (List<Equipa>)dados["equipas"];
+
+
+
+    }
+
+<h1 class="">Resultados encontrados:</h1>
+<div>
+    @if (!ligas.Any() && !equipas.Any())
+    {
+        <h1>Nenhum Resultado obtido.</h1>
+
+    }
+    else
+    {
+        <h1>Ligas:</h1>
+        <ul>
+            @foreach (Liga l in ligas)
+            {
+                <li><a class="dropdown-item" asp-area="" asp-controller="Home" asp-action="LigaJogos" asp-route-id="@l.Id">@l.Nome - @l.Localizacao</a></li>
+            }
+        </ul>
+        <h1>Equipas:</h1>
+        <ul>
+            @foreach (Equipa e in equipas)
+            {
+                <li><a class="dropdown-item" asp-area="" asp-controller="Home" asp-action="Equipa" asp-route-id="@e.Id">@e.Name - @e.Localizacao</a></li>
+            }
+        </ul>
+    }
+
+
+    </div>

@@ -1,0 +1,12 @@
+Insert into [Estatisticas] VALUES('1826', '1502', '22', '3', '1', '324', '120');
+Insert into [Estatisticas] VALUES('1918', '1755', '20', '6', '2', '163', '126');
+Insert into [Estatisticas] VALUES('2046', '1694', '19', '6', '3', '352', '128');
+Insert into [Estatisticas] VALUES('1921', '1800', '17', '9', '4', '121', '127');
+Insert into [Estatisticas] VALUES('1695', '1763', '11', '13', '5', '-68', '1802');
+Insert into [Estatisticas] VALUES('1741', '1781', '10', '14', '6', '-40', '124');
+Insert into [Estatisticas] VALUES('1741', '1781', '10', '14', '7', '-40', '123');
+Insert into [Estatisticas] VALUES('1435', '1551', '9', '15', '8', '-116', '130');
+Insert into [Estatisticas] VALUES('1492', '1635', '8', '14', '9', '-143', '121');
+Insert into [Estatisticas] VALUES('1542', '1633', '7', '15', '10', '-91', '125');
+Insert into [Estatisticas] VALUES('1397', '1617', '6', '16', '11', '-220', '131');
+Insert into [Estatisticas] VALUES('1434', '1676', '4', '18', '12', '-242', '129');

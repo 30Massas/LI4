@@ -1,0 +1,12 @@
+Insert into [Equipa] VALUES('87', 'Basket Flames', 'Austria', '7');
+Insert into [Equipa] VALUES('88', 'BBC Nord', 'Austria', '7');
+Insert into [Equipa] VALUES('90', 'Celovec', 'Austria', '7');
+Insert into [Equipa] VALUES('82', 'Dornbirn Lions', 'Austria', '7');
+Insert into [Equipa] VALUES('85', 'Furstenfeld', 'Austria', '7');
+Insert into [Equipa] VALUES('81', 'Jennersdorf', 'Austria', '7');
+Insert into [Equipa] VALUES('84', 'Mattersburg', 'Austria', '7');
+Insert into [Equipa] VALUES('83', 'Mistelbach', 'Austria', '7');
+Insert into [Equipa] VALUES('91', 'Raiders Tirol', 'Austria', '7');
+Insert into [Equipa] VALUES('89', 'Salzburg', 'Austria', '7');
+Insert into [Equipa] VALUES('92', 'Wagram', 'Austria', '7');
+Insert into [Equipa] VALUES('86', 'Worthersee Piraten', 'Austria', '7');

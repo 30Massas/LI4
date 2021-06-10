@@ -1,0 +1,28 @@
+﻿@using WorldWideBasketball.Models;
+@using System.Collections.Generic;
+@model WorldWideBasketball.Models.LogingInfo;
+@{
+    ViewBag.Title = "Ligas";
+}
+
+<h1 class="">Todas as Ligas:</h1>
+<div class="list_leagues">
+
+    @foreach (KeyValuePair<string, List<Liga>> entry in (Dictionary<string, List<Liga>>)Model.getObject())
+    {
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle liga_button" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                @entry.Key
+            </button>
+
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                @foreach (Liga l in entry.Value)
+                {
+                    <li><a class="dropdown-item" asp-area="" asp-controller="Home" asp-action="LigaJogos" asp-route-id="@l.Id">@l.Nome</a></li>
+
+                }
+            </ul>
+        </div>
+    }
+
+</div>

@@ -1,0 +1,23 @@
+﻿@model WorldWideBasketball.Models.LogingInfo;
+@{
+    ViewBag.Title = "Ligas";
+}
+
+@{ 
+    (Equipa, Estatistica) dados = ((Equipa, Estatistica)) Model.getObject();
+    Estatistica estatistica = dados.Item2;
+}
+
+<div class="text-center">
+    <h1>@dados.Item1.Name</h1>
+    <h2>Localização : @dados.Item1.Localizacao</h2>
+
+    <p class="dropdown-item">Pontos a Favor: @estatistica.Pontos_a_favor</p>
+    <p class="dropdown-item">Pontos Contra: @estatistica.Pontos_contra</p>
+    <p class="dropdown-item">Vitorias - @estatistica.Vitorias</p>
+    <p class="dropdown-item">Derrotas - @estatistica.Derrotas</p>
+    <p class="dropdown-item">Classificação - @estatistica.Classificacao</p>
+    <p class="dropdown-item">Diferença de Pontos - @estatistica.DiffPontos</p>
+
+
+</div>

@@ -1,0 +1,18 @@
+Insert into [Equipa] VALUES('22', 'Boulazac', 'France', '2');
+Insert into [Equipa] VALUES('20', 'Chalon/Saone', 'France', '2');
+Insert into [Equipa] VALUES('12', 'Chalons-Reims', 'France', '2');
+Insert into [Equipa] VALUES('18', 'Cholet', 'France', '2');
+Insert into [Equipa] VALUES('10', 'Dijon', 'France', '2');
+Insert into [Equipa] VALUES('17', 'Gravelines-Dunkerque', 'France', '2');
+Insert into [Equipa] VALUES('24', 'JL Bourg', 'France', '2');
+Insert into [Equipa] VALUES('23', 'Le Mans', 'France', '2');
+Insert into [Equipa] VALUES('11', 'Le Portel', 'France', '2');
+Insert into [Equipa] VALUES('14', 'Levallois', 'France', '2');
+Insert into [Equipa] VALUES('27', 'Limoges', 'France', '2');
+Insert into [Equipa] VALUES('26', 'Lyon-Villeurbanne', 'France', '2');
+Insert into [Equipa] VALUES('16', 'Monaco', 'France', '2');
+Insert into [Equipa] VALUES('21', 'Nanterre', 'France', '2');
+Insert into [Equipa] VALUES('15', 'Orleans', 'France', '2');
+Insert into [Equipa] VALUES('3007', 'Pau-Orthez', 'France', '2');
+Insert into [Equipa] VALUES('19', 'Roanne', 'France', '2');
+Insert into [Equipa] VALUES('25', 'Strasbourg', 'France', '2');

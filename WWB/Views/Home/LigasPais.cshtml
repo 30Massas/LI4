@@ -1,0 +1,34 @@
+﻿@using WorldWideBasketball.Models;
+@model WorldWideBasketball.Models.LogingInfo;
+@{
+    ViewBag.Title = "Liga Equipas";
+}
+
+
+@{
+
+    (string, List<Liga>) dados = ((string, List<Liga>))Model.getObject();
+    List<Liga> listaLigas = dados.Item2;
+    string pais = dados.Item1;
+
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Informação Ligas de @pais</h1>
+</div>
+
+<div class="text-center">
+
+    @{
+
+        foreach (Liga l in listaLigas)
+        {
+            <a class="dropdown-item" asp-area="" asp-controller="Home" asp-action="LigaJogos" asp-route-id="@l.Id">@l.Nome</a>
+        }
+
+    }
+
+
+
+</div>
